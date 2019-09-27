@@ -25,7 +25,7 @@ Change the URL indirectly from [strings.xml](/app/src/main/res/values/strings.xm
 
 `   <string name="website_domain">quaestio.org</string>`
 
-`    <string name="website_url">https://quaestio.org</string>`
+`    <string name="website_url">https://dowstoreapp.blogspot.com/</string>`
 
 to:
 
@@ -73,3 +73,6 @@ Licensed under the [Apache License, Version 2.0 (the "License")](http://www.apac
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "as is" basis, without warranties or conditions of any kind, either express or implied.
 
 See the License for the specific language governing permissions and limitations under the License.
+
+
+for more tutorial :https://dowstoreapp.blogspot.com/
