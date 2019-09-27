@@ -23,7 +23,7 @@ An [Android WebView](https://d.android.com/guide/webapps/webview) simply convert
 ## Usage
 Change the URL indirectly from [strings.xml](/app/src/main/res/values/strings.xml) from:
 
-`   <string name="website_domain">quaestio.org</string>`
+`   <string name="website_domain">dowstoreapp.blogspot.com</string>`
 
 `    <string name="website_url">https://dowstoreapp.blogspot.com/</string>`
 
